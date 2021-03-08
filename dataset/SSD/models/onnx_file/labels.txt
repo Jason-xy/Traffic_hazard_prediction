@@ -1,0 +1,10 @@
+BACKGROUND
+Ambulance
+Bicycle
+Bus
+Limousine
+Motorcycle
+Person
+Taxi
+Traffic sign
+Truck
