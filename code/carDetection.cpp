@@ -89,7 +89,7 @@ int main(int argc, char** argv){
 		// render outputs
 		if(output != NULL)
 		{
-			output->Render(imgOutput, input->GetWidth(), input->GetHeight());
+			output->Render(image, input->GetWidth(), input->GetHeight());
 
 			// update the status bar
 			char str[256];
