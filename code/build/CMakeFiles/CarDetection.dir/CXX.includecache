@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jason/github/Traffic_hazard_prediction/code/carDetection.cpp
+jetson-utils/videoSource.h
+/home/jason/github/Traffic_hazard_prediction/code/jetson-utils/videoSource.h
+jetson-utils/videoOutput.h
+/home/jason/github/Traffic_hazard_prediction/code/jetson-utils/videoOutput.h
+jetson-inference/detectNet.h
+/home/jason/github/Traffic_hazard_prediction/code/jetson-inference/detectNet.h
+jetson-utils/cudaOverlay.h
+-
+jetson-utils/cudaMappedMemory.h
+-
+jetson-utils/imageIO.h
+-
+signal.h
+-
+typeinfo
+-
+
