@@ -10,7 +10,7 @@ find_package(OpenCV REQUIRED)
 find_package(Qt4)
 
 include(${QT_USE_FILE})
-add_definitions(${QT_DEFINITIONS})
+add_definitions(${QT_DEFINITIONS}) 
 
 cuda_add_executable(CarDetection carDetection.cpp)
 
